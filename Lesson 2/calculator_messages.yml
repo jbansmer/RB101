@@ -1,0 +1,132 @@
+language:
+  lang:
+    "=> Language / Lingua / Sprache / Langue \n
+     - Type '1' for English; \n
+     - Escriba '2' para espanol; \n
+     - Geben Sie „3“ für Deutsch ein; \n
+     - Tapez '4' pour le français"
+  language_error:
+    "=> Invalid entry, please try again!\n
+    => Entrada inválida, por favor inténtalo de nuevo! \n
+    => Ungültiger Eintrag, bitte versuchen Sie es erneut! \n
+    => Entrée invalide, veuillez réessayer!"
+en:
+  welcome: "Welcome to the calculator!"
+  name?: "What is your name?"
+  name_error: "That doesn't seem like a name. Let's try again..."
+  hello: "Hello, "
+  start: "! Let's get started..."
+  first?: "What is the first number?"
+  second?: "What is the second number?"
+  number_error: "That isn't a valid number. Please enter again:"
+  zero_division_error: "You can't divide anything by zero! Let's try again..."
+  operation_error: "That isn't a valid operation. Let's try again..."
+  great: "Great choice! "
+  add_verb: "Adding "
+  subtract_verb: "Subtracting "
+  multiply_verb: "Multiplying "
+  divide_verb: "Dividing "
+  add_prep: "to "
+  subtract_prep: "from "
+  multiply_prep: "with "
+  divide_prep: "into "
+  answer_is: "The answer is:"
+  another?: "Do you want to perform another operation? Type 'YES' to calculate again"
+  go_again: "Great! Let's go..."
+  operation_prompt:
+    "Which operation do you want to perform? \n
+    - Type 'add' to compute the sum; \n
+    - Type 'subtract' to compute the difference; \n
+    - Type 'multiply' to compute the product; \n
+    - Type 'divide' to compute the quotient:"
+  goodbye: "Thanks for using calculator, "
+es:
+  welcome: "¡Bienvenido a la calculadora!"
+  name?: "¿Cómo te llamas?"
+  name_error: "Eso no parece un nombre. Intentemoslo de nuevo..."
+  hello: "¡Hola, "
+  start: "! Empecemos..."
+  first?: "¿Cuál es el primer número?"
+  second?: "¿Cuál es el segundo número?"
+  number_error: "Ese no es un número válido. Por favor ingrese de nuevo:"
+  zero_division_error: "¡No puedes dividir nada por cero! Intentemoslo de nuevo..."
+  operation_error: "Esa no es una operación válida. Intentemoslo de nuevo..."
+  great: "¡Gran elección! "
+  agregar_verb: "Sumando "
+  restar_verb: "Restando "
+  multiplicar_verb: "Multiplicando "
+  dividir_verb: "Dividir "
+  agregar_prep: "a "
+  restar_prep: "de "
+  multiplicar_prep: "con "
+  dividir_prep: "en "
+  answer_is: "La respuesta es:"
+  another?: "¿Quiere realizar otra operación? Escriba 'SÍ' para calcular de nuevo"
+  go_again: "¡Excelente! Vamos..."
+  operation_prompt:
+    "¿Qué operación quieres realizar? \n
+    - Escriba 'agregar' para calcular la suma; \n
+    - Escriba 'restar' para calcular la diferencia; \n
+    - Escriba 'multiplicar' para calcular el producto; \n
+    - Escriba 'dividir' para calcular el cociente:"
+  goodbye: "!Gracias por usar la calculadora, "
+de:
+  welcome: "Willkommen beim Rechner!"
+  name?: "Wie heißt du?"
+  name_error: "Das scheint kein Name zu sein. Lass es uns erneut versuchen..."
+  hello: "Hallo, "
+  start: "! Lass uns anfangen..."
+  first?: "Was ist die erste Zahl?"
+  second?: "Was ist die zweite Zahl?"
+  number_error: "Das ist keine gültige Nummer. Bitte nochmal eingeben:"
+  zero_division_error: "Man kann nichts durch Null teilen! Lass es uns erneut versuchen..."
+  operation_error: "Das ist keine gültige Operation. Lass es uns erneut versuchen..."
+  great: "Schöne Wahl! "
+  add_verb: " addieren"
+  subtrahieren_verb: " subtrahieren"
+  multiplizieren_verb: " multiplizieren"
+  dividieren_verb: " teilen"
+  add_prep: "zu "
+  subtrahieren_prep: "von "
+  multiplizieren_prep: "mit "
+  dividieren_prep: "durch "
+  answer_is: "Die Antwort ist:"
+  another?: "Möchten Sie eine weitere Operation durchführen? Geben Sie „JA“ ein, um die Berechnung erneut durchzuführen"
+  go_again: "Großartig! Lass uns gehen..."
+  operation_prompt:
+    "Welche Operation möchten Sie durchführen? \n
+    - Geben Sie „add“ ein, um die Summe zu berechnen; \n
+    - Geben Sie „subtrahieren“ ein, um die Differenz zu berechnen; \n
+    - Geben Sie „multiplizieren“ ein, um das Produkt zu berechnen; \n
+    - Geben Sie „dividieren“ ein, um den Quotienten zu berechnen:"
+  goodbye: "Vielen Dank, dass Sie den Taschenrechner verwenden, "
+fr:
+  welcome: "Bienvenue dans la calculatrice!"
+  name?: "Quel est ton nom?"
+  name_error: "Cela ne ressemble pas à un nom. Essayons encore..."
+  hello: "Bonjour, "
+  start: "! Commençons..."
+  first?: "Quel est le premier numéro?"
+  second?: "Quel est le deuxième numéro?"
+  number_error: "Ce n'est pas un nombre valide. Veuillez saisir à nouveau:"
+  zero_division_error: "Vous ne pouvez rien diviser par zéro ! Essayons encore..."
+  operation_error: "Ce n'est pas une opération valide. Essayons encore..."
+  great: "Bon choix! "
+  add_verb: "Ajouter "
+  soustraire_verb: "Soustraire "
+  multiplier_verb: "Multiplier "
+  diviser_verb: "Diviser "
+  add_prep: "à "
+  soustraire_prep: "de "
+  multiplier_prep: "par "
+  diviser_prep: "en "
+  answer_is: "La réponse est:"
+  another?: "Voulez-vous effectuer une autre opération? Tapez 'OUI' pour recalculer"
+  go_again: "Super! Allons-y..."
+  operation_prompt:
+    "Quelle opération souhaitez-vous effectuer? \n
+    - Tapez 'add' pour calculer la somme; \n
+    - Tapez 'soustraire' pour calculer la différence; \n
+    - Tapez 'multiplier' pour calculer le produit; \n
+    - Tapez 'diviser' pour calculer le quotient:"
+  goodbye: "Merci d'utiliser la calculatrice, "
