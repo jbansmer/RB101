@@ -22,3 +22,8 @@ p munsters.object_id
 # and munsters is the same object. When demo_hash is changed, munsters reflects that change because the
 # object referenced is still the same -- demo_hash does not reference a new object (although it seems like
 # it should). The added #object_id method calls demonstrate that demo_hash and munsters are the same object.
+
+# UPDATE:
+# The reason that the hash is altered outside the method is because of the destructive Array#[]= method.
+# family_member["age"] += 42 is NOT reassignment, it is a class method call that mutates the original object
+# without creating a new object. It looks like reassingment but is actually a separate method.
